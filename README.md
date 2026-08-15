@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ambikesh-Singh/Ambikesh-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Hey, I'm Ambikesh Singh 👋
 
-Here are some ideas to get you started:
+#### Full-Stack Web Developer | Turning ideas into powerful digital experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="left">
+
+### 🚀 About Me
+I'm a **Computer Science Engineering Student**, passionate about building practical solutions through technology.
+I enjoy turning ideas into working projects, learning new technologies, and continuously improving my problem-solving skills.
+
+<p align="center">
+  <img src="./assets/developer.gif" width="800">
+</p>
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+## 🌟 What I Do
+
+- 🌐 Create responsive, mobile-first websites & applications
+- ⚙️ Build APIs & backend systems
+- ✨ Integrate smooth animations & interactive UI
+- 🚀 Optimize applications for performance & scalability
+
+## 📊 Most Used Languages
+
+- 💻 C++
+- 🐍 Python
+- ☕ Java
+- 🌐 JavaScript
+- 🎨 HTML & CSS
+
+## 📫 Let's Connect
+
+📧 [Email Me](mailto:r2077971@gmail.com) · 💼 [LinkedIn](https://in.linkedin.com/in/ambikesh-singh-6814603b8)
+
+
+
+
+---
+
+>**Build. Learn. Break. Improve. Repeat. ⚡**
+</div>
