@@ -1,8 +1,8 @@
 <div align="center">
 
-##  Hey, I'm Ambikesh Singh 👋
+#  Hey, I'm Ambikesh Singh 👋
 
-#### Full-Stack Web Developer | Turning ideas into powerful digital experiences
+### Full-Stack Web Developer | Turning ideas into powerful digital experiences
 
 ---
 
@@ -13,7 +13,7 @@ I'm a **Computer Science Engineering Student**, passionate about building practi
 I enjoy turning ideas into working projects, learning new technologies, and continuously improving my problem-solving skills.
 
 <p align="center">
-  <img src="./assets/developer.gif" width="500">
+  <img src="./assets/developer.gif" width="400">
 </p>
 
 ## 🛠️ Tech Stack
