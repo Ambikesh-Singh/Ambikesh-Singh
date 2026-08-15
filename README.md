@@ -13,7 +13,7 @@ I'm a **Computer Science Engineering Student**, passionate about building practi
 I enjoy turning ideas into working projects, learning new technologies, and continuously improving my problem-solving skills.
 
 <p align="center">
-  <img src="./assets/developer.gif" width="800">
+  <img src="./assets/developer.gif" width="600">
 </p>
 
 ## 🛠️ Tech Stack
